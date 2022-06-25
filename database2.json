@@ -1,9 +1,7 @@
-
 {
   "users": [
       "Id",
       "Name",
-      "Username",
       "Age"
     ],
     "rows": [
