@@ -1,0 +1,10 @@
+.table{
+    overflow: hidden;
+    font-weight: bold;
+}
+
+.table thead th{
+    background-color: #706969;
+    color: white;
+}
+
